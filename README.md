@@ -1,4 +1,4 @@
-# DSA_Assignment_Chinmay_Chauhan
+# DSA_Assignment_Jay_Naik
 
 ## About this Repository
 This repository contains my solutions to various Data Structures and Algorithms problems as part of my coursework. Each problem is carefully solved, documented, and tested to ensure correctness and efficiency.
