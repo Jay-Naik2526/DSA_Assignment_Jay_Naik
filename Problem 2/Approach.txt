@@ -1,0 +1,3 @@
+Use a stack and iterate through the peaks from **right to left**.
+For each peak, pop all smaller or equal peaks from the stack; the peak now at the top is the answer (or -1 if the stack is empty).
+Finally, push the current peak onto the stack.
